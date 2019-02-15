@@ -20,3 +20,6 @@ This collection of email templates is for use with the MainWP Client Reports ext
 + Paste client report code into the *Report Body > Text Editor*.
 + Click ***Save Report***.
 + Click ***Send Test Email***.
+
+### Additional Resources
++ I've outlined use of these client report templates in more detail [here](https://typewheel.xyz/creating-another-stylish-client-report/) on my blog.
