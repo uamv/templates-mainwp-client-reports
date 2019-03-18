@@ -2,7 +2,7 @@
 This collection of email templates is for use with the MainWP Client Reports extension.
 
 #### Terms of Use & Disclaimer
-*These snippets have been tested in a specific environment. They are provided as is and should only be employed by an experienced user. This readme.md file contains affiliate links.*
+*These templates have been tested across a number of mail clients. They are provided as is. This readme.md file contains affiliate links.*
 
 ## Usage
 
